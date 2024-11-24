@@ -1,0 +1,39 @@
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+
+
+.body {
+    background-color: brown;
+}
+
+.title {
+    padding: 100px;
+    margin-top: 100px;
+    background-color: gray;
+
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 82px;
+}
+
+.foto {
+    padding: 50px;
+    background-color: #ff4646;
+}
